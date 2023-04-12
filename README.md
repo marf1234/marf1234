@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Hi, I'm Andrei 👋
-Junior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Junior Software Engineer with more than 6 six month of commercial experience. I have excellent knowledge in Java core.
+In general worked with monolitic, microservice and serverless arthitectures. Completed several pet projects.
 
 
 
@@ -16,11 +16,11 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Java language
+*   MySQL, PostgreSQL, Liquibase
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template.
+*   GitHub/GitLab
+*   JUnit, Hibernate, Apache Maven, Apache Tomcat
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/marf1234/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=marf1234&color=DE002D">
